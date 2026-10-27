@@ -3,3 +3,12 @@
 .env.*
 *.tmp
 *.swp
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp

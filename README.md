@@ -20,3 +20,7 @@ Retailhub/
 ├── scripts/
 ├── README.md
 └── .gitignore
+
+## Documentation
+
+This repository contains the RetailHub project and its deployment documentation.
