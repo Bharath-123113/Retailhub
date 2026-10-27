@@ -1,0 +1,4 @@
+RetailHub Application
+Application Name: RetailHub
+Version: 1.0.0
+Environment: Development
