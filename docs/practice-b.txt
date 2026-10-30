@@ -1,0 +1,7 @@
+D:\devops
+│
+├── Retailhub          ← Existing repository (leave untouched)
+│
+├── Retailhub-A        ← Clone A (Developer 1)
+│
+└── Retailhub-B        ← Clone B (Developer 2)
